@@ -13,7 +13,7 @@ A fancy streaming service with an admin panel built with PHP, MySQL, Bootstrap, 
 - **User Interface**:
   - Browse and watch videos.
   - Video playback with embedded player.
-## General The website do
+## Generally The website do
  - a full authentication system
  - use advanced PDO queries
  - use hash and dehash passwords with PHP

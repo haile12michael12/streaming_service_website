@@ -1,0 +1,15 @@
+{
+    "name": "michael/streaming_service_website",
+    "autoload": {
+        "psr-4": {
+            "Michael\\StreamingServiceWebsite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "haile12michael12",
+            "email": "michaelhaile12@yahoo.com"
+        }
+    ],
+    "require": {}
+}
